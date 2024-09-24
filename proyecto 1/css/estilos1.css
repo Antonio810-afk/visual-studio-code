@@ -1,7 +1,7 @@
 .seccion1{
     margin: 0;
     height: 100vh;
-    background-image: url('ruta/a/tu/imagen.jpg');
+    background-image:url("C:/Users/Usuario/visual studio code/seccion1.png");
     background-size: cover;
     background-position: center;
 }
