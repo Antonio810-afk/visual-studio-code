@@ -1,0 +1,30 @@
+.caja{
+    width: 660px;
+    height: 800px;
+    padding: 40px;
+    margin: 5%;
+    border: 5px solid green;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: rgb(217, 214, 214);
+}
+.caja1{
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    margin: 20px;
+    border: 5px solid green;
+    width: 50%;
+    height: 100px;
+    background-color: rgb(200, 200, 253);
+}
+.caja2{
+    width: 500px;
+    height: 200px;
+    padding: 40px;
+    margin: 5%;
+    border: 5px solid green;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}

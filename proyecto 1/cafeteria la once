@@ -1,0 +1,48 @@
+<DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="css/estilos1.css">
+    </head>
+    <body>
+        <div class="seccion1">
+            <h1>CAFETERIA LA ONCE</h1>
+            <P>Platos
+                sabrosísimos.</P>
+        </div>
+        <div class="seccion2"></div>
+            <h1>¡Hola!
+                Somos Cafetería 
+                La Once.</a>
+            </h1>
+            <P>Nos acabamos de mudara al barrio, pero es 
+                como si llevaramos aqui toda la vida. Nos 
+                habeis acogido como a viejos amigos al 
+                visitarnos con una sonrisa y un gran apetito.</p> 
+            
+            <p>por eso nos comprometemos a servir siempre 
+                lo bueno. Nuestra comida siempre sera de 
+                cultivo ecologico, de origen local, cocinada 
+                a fuego lento y servida con una calida 
+                sonrisa. Ahora somos una familia. Y asi es 
+                como cocinamos para los que amamos.</p>
+            
+            <p>Bienvenidos a casa.</P>
+        </div>
+        <div class="seccion3"></div>
+            <h1>Desayuno 
+                al instante</h1>
+            <P>¿No tienes tiempo para quedarte? No pasa nada. Te hemos
+                preparado un desayuno para REYES. Con mayusculas. Echa
+                un vistazo a los ingredientes.</P>
+                <p>-Avena y granos</p> 
+                <p>-Tostados lentamente</p> 
+                <p>-Uvas y bayas maduradas</p> 
+                <p>-Fruta seca natural endulzada</p> 
+                <p>-Yogur casero</p> 
+                <p>-Miel recién cosechada</p>
+        </div>
+    </body>
+    </html>
