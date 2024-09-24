@@ -8,9 +8,9 @@
     </head>
     <body>
         <div class="seccion1">
-            <h1>CAFETERIA LA ONCE</h1>
-            <P>Platos
-                sabrosísimos.</P>
+            <p>CAFETERIA LA ONCE</p>
+            <h1>Platos
+                sabrosísimos.</h1>
         </div>
         <div class="seccion2"></div>
             <h1>¡Hola!

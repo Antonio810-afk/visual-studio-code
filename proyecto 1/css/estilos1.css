@@ -1,0 +1,21 @@
+.seccion1{
+    margin: 0;
+    height: 100vh;
+    background-image: url('ruta/a/tu/imagen.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.seccion2{
+    margin: 0;
+    height: 100vh;
+    background-image: url('ruta/a/tu/imagen.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.seccion3{
+    margin: 0;
+    height: 100vh;
+    background-image: url('ruta/a/tu/imagen.jpg');
+    background-size: cover;
+    background-position: center;
+}
