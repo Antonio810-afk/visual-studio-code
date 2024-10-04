@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+   <div onclick="alert('¡El manejador!')">
+    <em>si haces click en <code>EM</code>, el manejador en
+    <code>DIV</code>es ejecutado.</em>
+   </div> 
+   <style>
+    body *{
+        margin: 10px;
+        border: 1px solid blue;
+    }
+   </style>
+   <form onclick="alert('form')">FORM
+    <div onclick="alert('div')">DIV
+        <p onclick="alert('p')">P</p>
+    </div>
+   </form>
+</body>
+</html>
