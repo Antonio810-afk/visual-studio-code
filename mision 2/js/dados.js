@@ -25,3 +25,9 @@ function getDiceFace(value) {
 
 
 }
+const dice = document.getElementById('dice');
+const rollButton = document.getElementById('rollButton')
+
+rollButton.addEventListener('click', () => {
+    dice.classList.toggle('giro'); // Añade o quita la clase "giro" al hacer clic
+});

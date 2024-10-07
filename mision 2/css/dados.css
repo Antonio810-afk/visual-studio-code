@@ -18,6 +18,11 @@ body {
 .dice {
     font-size: 200px;
     margin: 20px 0;
+    transition: transform 4s;
+}
+
+.giro {
+    transform: rotate(36000deg); /* Giro completo */
 }
 
 button {
